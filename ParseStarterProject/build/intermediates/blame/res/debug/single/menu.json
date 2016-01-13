@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\wcook\\Documents\\Parse-Starter-Project-1.12.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\wcook\\Documents\\Parse-Starter-Project-1.12.0\\ParseStarterProject\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wcook\\Documents\\Parse-Starter-Project-1.12.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\logging_in.xml",
+        "source": "C:\\Users\\wcook\\Documents\\Parse-Starter-Project-1.12.0\\ParseStarterProject\\src\\main\\res\\menu\\logging_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\wcook\\Documents\\Parse-Starter-Project-1.12.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\global.xml",
+        "source": "C:\\Users\\wcook\\Documents\\Parse-Starter-Project-1.12.0\\ParseStarterProject\\src\\main\\res\\menu\\global.xml"
+    }
+]

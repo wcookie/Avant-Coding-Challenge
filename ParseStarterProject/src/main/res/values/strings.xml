@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<resources>
+    <string name="parse_app_id">Dq1VFeVblVNBWc6NczoskIocKt1ogNRBeHFPVyO1</string>
+    <string name="parse_client_key">IL5oopNnD0ZP04sySu0MHbZDqlFQvll8Ubcdtx1h</string>
+
+    <string name="app_name">Avant Coding Challenge</string>
+    <string name="profile_logo_content_description">Logo</string>
+    <string name="profile_title_logged_in">Your are logged in as</string>
+    <string name="profile_logout_button_label">Log out</string>
+    <string name="profile_title_logged_out">You must be logged in to view your profile</string>
+    <string name="profile_login_button_label">Log in</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_logging_in">LoggingIn</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="action_example">Example action</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_camera2_basic_fragment">Camera2BasicFragment</string>
+    <string name="intro_message">
+        <![CDATA[
+
+
+            This sample demonstrates the basic use of Camera2 API. Check the source code to see how
+            you can display camera preview and take pictures.
+
+
+        ]]>
+    </string>
+    <string name="title_activity_upload_document">UploadDocument</string>
+    <string name="title_activity_documents">Documents</string>
+    <string name="title_activity_view_document">ViewDocument</string>
+</resources>
